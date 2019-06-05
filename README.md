@@ -1,7 +1,5 @@
-# NewsScraper - Scrape any newspaper automatically
-This is a simple python script for automatically scraping the most recent articles from any news-site.
-Just add the websites you want to scrape to `NewsPapers.json` and the script will go through
-and scrape each site listed in the file.
+# TrueNews - Generate New News Articles Using Recursive Neural Networks.
+These are some python scripts for downloading news articles off the web, and feeding them into a rnn using textgenrnn and `NewsScraper.py`
 
 For more info read comments in `NewsScraper.py`.
 
@@ -11,3 +9,9 @@ This script uses the following libraries:
 https://github.com/codelucas/newspaper
 
 https://github.com/kurtmckee/feedparser
+
+https://github.com/holwech/NewsScraper
+
+https://www.tensorflow.org/
+
+https://github.com/minimaxir/textgenrnn
