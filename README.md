@@ -1,5 +1,5 @@
 # TrueNews - Generate New News Articles Using Recursive Neural Networks.
-These are some python scripts for downloading news articles off the web, and feeding them into a rnn using textgenrnn and `NewsScraper.py`
+These are some python scripts for downloading news articles off the web via  and `NewsScraper.py`, converting them to a plaintext file with `NewsParser.py`, and feeding them into a recursive neural network using the `textgenrnn` module in `FILE NOT YET MADE`.
 
 For more info read comments in `NewsScraper.py` and `NewsParser.py`.
 
